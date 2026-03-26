@@ -10,13 +10,9 @@ Every recommendation is proven on a clone of your actual database before it touc
 |------|-------------|
 | [openapi-cli4ai](https://github.com/dbgorilla/openapi-cli4ai) | Give your AI agent a CLI for any REST API.  Point it at an OpenAPI spec.  Pull-based discovery, not prompt stuffing. |
 
-### Founded by
+### Who we are
 
-**Chris Lalonde** — Co-founded ObjectRocket (acquired by Rackspace), COO at Wickr (acquired by AWS), Director at AWS.  Six patents in authentication and fraud prevention.
-
-**Stephen Nolan** — SVP of Product at Anaconda (30M+ downloads annually), General Manager of Data Services at Rackspace, leading all database services globally.
-
-We met when Rackspace acquired ObjectRocket.  We have been building and operating database platforms together ever since.
+Chris Lalonde and Stephen Nolan.  We met in 2013 and built a database-as-a-service business together.  Now we are building what comes after DBaaS — autonomous database operations that manage themselves.
 
 ### Links
 
