@@ -12,7 +12,7 @@ Every recommendation is proven on a clone of your actual database before it touc
 
 ### Who we are
 
-Our founders Chris Lalonde and Stephen Nolan started working together in 2013, grew a database-as-a-service platform from near zero to global scale, and have been shipping database infrastructure ever since.  DBGorilla is what comes next — AI agents that operate your databases so your engineers do not have to.
+Our founders Chris Lalonde and Stephen Nolan started working together in 2013, grew a database-as-a-service platform from zero to global scale, and have been shipping database infrastructure ever since.  DBGorilla is what comes next — AI agents that operate your databases so your engineers do not have to.
 
 ### Links
 
